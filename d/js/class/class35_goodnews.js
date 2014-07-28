@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/empireCMS/news/world/2008-05-08/70.html\" title=\"俄罗斯第三任总统梅德韦杰夫宣誓就职\">俄罗斯第三任总统梅德韦杰夫宣誓就</a></li><li><a href=\"/empireCMS/news/world/2008-05-08/8.html\" title=\"七国人道援助物资已运抵缅甸\">七国人道援助物资已运抵缅甸</a></li>");

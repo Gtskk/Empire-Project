@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/empireCMS/photo/fengjing/12102185314.html\" title=\"全球最浪漫海岛[图集]\">全球最浪漫海岛[图集]</a></li><li><a href=\"/empireCMS/photo/fengjing/12102177512.html\" title=\"日本北海道空气中的淡淡的花香\">日本北海道空气中的淡淡的花香</a></li>");

@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/empireCMS/php/2013-02-22/81.html\" title=\"帝国CMS测试新闻发布系统\">帝国CMS测试新闻发布系统</a></li><li><a href=\"/empireCMS/php/2013-02-22/80.html\" title=\"PHP常识\"><strong>PHP常识</strong></a></li><li><a href=\"/empireCMS/php/2013-02-22/79.html\" title=\"PHP功能概述\">PHP功能概述</a></li>");
